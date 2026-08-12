@@ -12,7 +12,7 @@
 
 Software developer who enjoys building for the web, solving problems, and figuring out how things work. I build web applications across the frontend and backend with Python, Go, JavaScript, HTML, and CSS, and write about what I learn along the way.
 
-🔭 &nbsp;I'm currently working on **Web applications, backend systems, and practical software projects**  
+🔭 &nbsp;I'm currently working on **A Python-based algorithmic trading bot with MetaTrader 5 integration, alongside web applications and backend projects.**  
 🌱 &nbsp;I'm currently learning **Python, Go, backend development, APIs, and full-stack web development**  
 👯 &nbsp;I'm looking to collaborate on **Open-source projects, web applications, and developer tools**  
 🤔 &nbsp;I'm looking for help with **Software architecture, system design, and writing clean, production-ready code**  
